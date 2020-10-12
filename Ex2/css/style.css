@@ -38,7 +38,7 @@ li{
 
 /*Header*/
 header{
-    background: #000;
+    background: #333333;
     color: #fff;
     padding: 0.625em; /* 10 / 16*/
     border-bottom: 0.1875em solid #1de827; /* 3 / 16*/
@@ -57,7 +57,7 @@ header a{
     font-size: 1em; /* 16 / 16*/
 }
 header a:hover{
-    color: #ccc;
+    color: #FF9900;
 }
 
 /*showcase*/
